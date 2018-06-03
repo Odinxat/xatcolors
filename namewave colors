@@ -1,10 +1,12 @@
 Blue:
 Option 1: (glow#000099#grad#r-45#66ffff#0000ff#f2)
 Option 2: (glow#0#grad#r-45#16939b#a0f6f1#16939b#f1#)
+Option 3: (glow#009799#grad#009799#000000#00fcff#ccfffe)
 
 Purple:
 Option 1: (glow#0#grad#r-45#69169B#rb#69169B#f1#)
 Option 2: (glow#680099#grad#r-45#c066ff#8400ff#f2)
+Option 3: (glow#4c0099#grad#4c0099#000000#7e00ff#e6ccff)
 
 Red:
 Option 1: (glow#990000#grad#r-45#f7bac1#ff0000#f2)
@@ -18,10 +20,12 @@ Option 3: (glow#079900#grad#r-45#bbf7ba#009712#f2)
 Gold/ Yellow:
 Option 1: (glow#997000#grad#r-45#f7f2ba#ffd200#f2)
 Option 2: (glow#997000#grad#r-45#f7f2ba#cba700#f2)
+Option 3: (glow#997e00#grad#997e00#000000#ffd200#fff6cc)
 
 Pink:
 Option 1: (glow#900099#grad#r-45#eebaf7#ea00ff#f2)
 Option 2: (glow#900099#grad#r-45#eebaf7#ba02ca#f2)
+Option 3: (glow#990085#grad#990085#000000#ff00d8#ffccf8)
 
 Black:
 Black and Red: (glow#010101#grad#r-45#010101#r#010101#010101#f2)
