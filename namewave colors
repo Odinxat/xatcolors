@@ -1,0 +1,34 @@
+Blue:
+Option 1: (glow#000099#grad#r-45#66ffff#0000ff#f2)
+Option 2: (glow#0#grad#r-45#16939b#a0f6f1#16939b#f1#)
+
+Purple:
+Option 1: (glow#0#grad#r-45#69169B#rb#69169B#f1#)
+Option 2: (glow#680099#grad#r-45#c066ff#8400ff#f2)
+
+Red:
+Option 1: (glow#990000#grad#r-45#f7bac1#ff0000#f2)
+Option 2: (glow#990000#grad#r-45#f7bac1#b10101#f2)
+
+Green:
+Option 1: (glow#079900#grad#r-45#bbf7ba#00ff1e#f2)
+Option 2: (glow#079900#grad#r-45#bbf7ba#00640c#f2)
+Option 3: (glow#079900#grad#r-45#bbf7ba#009712#f2)
+
+Gold/ Yellow:
+Option 1: (glow#997000#grad#r-45#f7f2ba#ffd200#f2)
+Option 2: (glow#997000#grad#r-45#f7f2ba#cba700#f2)
+
+Pink:
+Option 1: (glow#900099#grad#r-45#eebaf7#ea00ff#f2)
+Option 2: (glow#900099#grad#r-45#eebaf7#ba02ca#f2)
+
+Black:
+Black and Red: (glow#010101#grad#r-45#010101#r#010101#010101#f2)
+Black and Green: (glow#010101#grad#r-45#010101#g#010101#010101#f2)
+Black and Blue: (glow#010101#grad#r-45#010101#b#010101#010101#f2)
+Black and Light Blue: (glow#010101#grad#r-45#010101#00fff6#010101#010101#f2)
+Black and Yellow: (glow#010101#grad#r-45#010101#f6ff00#010101#010101#f2)
+Black and Gold: (glow#010101#grad#r-45#010101#f2bc19#010101#010101#f2)
+Black and Purple: (glow#010101#grad#r-45#010101#rb#010101#010101#f2)
+Black and Pink: (glow#010101#grad#r-45#010101#rbr#010101#010101#f2)
